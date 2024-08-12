@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Pavan Sai Korlapati
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my GitHub profile! I'm Pavan Sai Korlapati, a dedicated back-end developer with a strong foundation in AI/ML development and DevOps practices. I am currently pursuing a Master's in Artificial Intelligence at Saint Louis University, expected to graduate in May 2025.
 
-## Available Scripts
+## 🚀 Skills
 
-In the project directory, you can run:
+- **Back End Development:** Java, Python, Spring, Django, SQL, Docker, Kubernetes
+- **DevOps:** AWS, Azure, Git, Circle CI, Jira, Maven, SonarQube
+- **AI/ML Development:** Numpy, Pandas, Matplotlib, EDA, MLP, Model Evaluation, Gradio
+- **Miscellaneous:** Product Development, Problem Solving, Team Management, Conflict Resolution
 
-### `npm start`
+## 🎓 Education
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Saint Louis University, St. Louis, MO**  
+  *Masters in Artificial Intelligence* (GPA: 3.95/4)  
+  _Expected Graduation: May 2025_
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **SASTRA University, Thanjavur, India**  
+  *Bachelors in Mechanical Engineering (Hons)* (GPA: 7.87/10)  
+  _Graduation: June 2021_
 
-### `npm test`
+## 💼 Experience
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### AWS Student Worker | Saint Louis University, St. Louis, US | 2024
+- **TeamDynamix to AWS Integration:** Developed strategies for integrating the university’s ticketing platform with AWS, leading a team of 3 to generate insights via AWS Quicksight.
+- **AWS Connect Contact Lens Implementation:** Planned and executed AI-based analytics features on AWS Connect.
 
-### `npm run build`
+### Senior Software Engineer | Capgemini Technology Services, Hyderabad, India | 2021 – 2023
+- **Application Deployment using AWS:** Created Kubernetes clusters and integrated AWS Lambda functions to enhance application performance by 10%.
+- **Digital Channels and Capabilities for ABN AMRO Bank, Netherlands:** Migrated legacy components to Java 8 and REST, improving system scalability and operational efficiency through IaC solutions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📚 Academic Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### All Terrain Vehicle for BAJA | Society of Automotive Engineers, India | 2019 - 2021
+- Served as the team captain, managing a team of 25 students and coordinating tools, equipment, and components for the project. Gained hands-on experience in designing brake and wheel assembly systems.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🏆 Achievements & Certifications
 
-### `npm run eject`
+- **First Position:** ABN AMRO Sustainable Development Hackathon Competition (2023)
+- **AWS Developer Associate** (2022)
+- **Azure Fundamentals (AZ-900)** (2022)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📫 Let's Connect
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Email:** pavansai.korlapati@slu.edu
+- **GitHub:** [kpa1sai](https://github.com/kpa1sai/)
+- **LinkedIn:** [Pavan Sai Korlapati](https://linkedin.com/in/kpa1sai/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore my repositories and connect with me on LinkedIn for collaboration or inquiries!
