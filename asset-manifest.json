@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kpa1sai-portfolio/static/css/main.06d6d336.css",
-    "main.js": "/kpa1sai-portfolio/static/js/main.147f1d59.js",
-    "static/js/453.b97d34f9.chunk.js": "/kpa1sai-portfolio/static/js/453.b97d34f9.chunk.js",
-    "index.html": "/kpa1sai-portfolio/index.html",
-    "main.06d6d336.css.map": "/kpa1sai-portfolio/static/css/main.06d6d336.css.map",
-    "main.147f1d59.js.map": "/kpa1sai-portfolio/static/js/main.147f1d59.js.map",
-    "453.b97d34f9.chunk.js.map": "/kpa1sai-portfolio/static/js/453.b97d34f9.chunk.js.map"
+    "main.css": "/kpa1sai/static/css/main.06d6d336.css",
+    "main.js": "/kpa1sai/static/js/main.b19428dc.js",
+    "static/js/453.b97d34f9.chunk.js": "/kpa1sai/static/js/453.b97d34f9.chunk.js",
+    "index.html": "/kpa1sai/index.html",
+    "main.06d6d336.css.map": "/kpa1sai/static/css/main.06d6d336.css.map",
+    "main.b19428dc.js.map": "/kpa1sai/static/js/main.b19428dc.js.map",
+    "453.b97d34f9.chunk.js.map": "/kpa1sai/static/js/453.b97d34f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06d6d336.css",
-    "static/js/main.147f1d59.js"
+    "static/js/main.b19428dc.js"
   ]
 }
