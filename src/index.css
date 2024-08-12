@@ -1,0 +1,26 @@
+:root {
+  /* Default light theme variables */
+  --header-bg: #ffffff;
+  --header-text: #2c3e50;
+  --header-hover: #3498db;
+  --header-accent: #e74c3c;
+  --header-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  /* ... other variables */
+}
+
+.dark {
+  --header-bg: #1a1a2e;
+  --header-text: #e0e0e0;
+  --header-hover: #4da6ff;
+  --header-accent: #ff6b6b;
+  --header-shadow: 0 2px 4px rgba(255,255,255,0.1);
+  /* ... other dark theme variables */
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Segoe UI', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
