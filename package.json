@@ -1,7 +1,7 @@
 {
   "name": "kpa1sai-portfolio",
   "version": "0.1.0",
-  "homepage": "https://kpa1sai.github.io/kpa1sai-portfolio/",
+  "homepage": "https://kpa1sai.github.io/kpa1sai/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
